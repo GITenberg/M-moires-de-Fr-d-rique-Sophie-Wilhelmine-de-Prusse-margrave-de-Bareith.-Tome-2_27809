@@ -1,0 +1,40 @@
+_repo: M-moires-de-Fr-d-rique-Sophie-Wilhelmine-de-Prusse-margrave-de-Bareith.-Tome-2_27809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilhelmine, Margravine, consort of Friedrich, Margrave of Bayreuth
+    aliases:
+    - Wilhelmine Friederike Sophie, Margravine, consort of Friedrich, Margrave of
+      Bayreuth
+    - Frederica Sophia Wilhelmina, Margravine, consort of Friedrich, Margrave of Bayreuth
+    - Frederike Sophie Wilhelmine, Margravine, consort of Friedrich, Margrave of Bayreuth
+    birthdate: 1709
+    deathdate: 1758
+    gutenberg_agent_id: '32921'
+    url: http://www.gutenberg.org/2009/agents/32921
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Princess_Wilhelmine_of_Prussia
+    - http://fr.wikipedia.org/wiki/Wilhelmine_de_Bayreuth
+description: ''
+gutenberg_bookshelf:
+- FR Femmes
+- FR Histoire
+gutenberg_issued: '2009-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27809'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prussia (Germany) -- History -- Frederick William I, 1713-1740'
+- !lcc 'DD'
+- !lcsh 'Wilhelmine, Margravine, consort of Friedrich, Margrave of Bayreuth, 1709-1758'
+- !lcsh 'Prussia (Germany) -- Court and courtiers'
+title: Mémoires de Frédérique Sophie Wilhelmine de Prusse, margrave de Bareith. Tome
+  2
+url: http://www.gutenberg.org/ebooks/27809
